@@ -1,17 +1,17 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  // 1. 정정 사이트 변환 (빌드 시 'out' 폴더 생성)
+  // 1. ?�정 ?�이??변??(빌드 ??'out' ?�더 ?�성)
   output: "export",
 
-  // 2. 이미지 최적화 비활성화
+  // 2. ?��?지 최적??비활?�화
   images: {
     unoptimized: true,
   },
 
-  // 3. 경로설정
+  // 3. 경로?�정
   basePath: '/Portfolio',
-  assetPrefix: '/Portfolio',
+  // assetPrefix: '/Portfolio',
 };
 
 export default nextConfig;
