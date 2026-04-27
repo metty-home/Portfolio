@@ -31,7 +31,7 @@ export default function LoadingCover() {
         {PETALS.map((n) => (
           <li key={n}>
             <Image
-              src={`/images/00_loading/img_loading_0${n}.png`}
+              src={`/Portfolio/images/00_loading/img_loading_0${n}.png`}
               alt={`loading petal ${n}`}
               width={300}
               height={286}

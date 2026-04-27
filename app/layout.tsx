@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: "Blossom Jung :: portfolio",
   description: "A partner who moves forward with you. Blossom Jung's portfolio.",
   icons: {
-    icon: "/images/favicon.ico",
+    icon: "/Portfolio/images/favicon.ico",
   },
 };
 

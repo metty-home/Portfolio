@@ -195,7 +195,7 @@ b { font-weight: 700; }
 /* ===== Section 01 - Visual ===== */
 #visual.section_01 {
   height: 100vh;
-  background: url(/images/01_visual/img_bg_visual.jpg) 50% no-repeat;
+  background: url(/Portfolio/images/01_visual/img_bg_visual.jpg) 50% no-repeat;
   background-size: cover;
   z-index: 9;
 }
@@ -223,7 +223,7 @@ b { font-weight: 700; }
 /* ===== Section 02 - About ===== */
 #about.section_02 { z-index: 1; }
 #about.section_02 .fixed_bg {
-  background: url(/images/02_about/img_bg_about.jpg) 50% no-repeat;
+  background: url(/Portfolio/images/02_about/img_bg_about.jpg) 50% no-repeat;
   background-size: cover;
 }
 #about.section_02 .width_con { padding: 157px 0 117px; }
@@ -314,7 +314,7 @@ b { font-weight: 700; }
 #personality.section_04 { visibility: visible; }
 #personality.section_04.is_active { z-index: 1; }
 #personality.section_04 .fixed_bg {
-  background: url(/images/04_personality/bg_personality.jpg) 50% no-repeat;
+  background: url(/Portfolio/images/04_personality/bg_personality.jpg) 50% no-repeat;
   background-size: cover;
 }
 #personality.section_04 .width_con .text_con { margin: 0 0 55px 0; }
@@ -440,17 +440,17 @@ b { font-weight: 700; }
 #portfolio.section_05 .width_con .product_con .product .guide { width: 100%; }
 
 #portfolio.section_05 .width_con .product_con .product.space {
-  background: url(/images/05_portfolio/img_portfolio_01.jpg) 50% no-repeat;
+  background: url(/Portfolio/images/05_portfolio/img_portfolio_01.jpg) 50% no-repeat;
   background-size: cover;
   transition-delay: .4s;
 }
 #portfolio.section_05 .width_con .product_con .product.piano {
-  background: url(/images/05_portfolio/img_portfolio_02.jpg) 50% no-repeat;
+  background: url(/Portfolio/images/05_portfolio/img_portfolio_02.jpg) 50% no-repeat;
   background-size: cover;
   transition-delay: .55s;
 }
 #portfolio.section_05 .width_con .product_con .product.hotel {
-  background: url(/images/05_portfolio/img_portfolio_03.jpg) 50% no-repeat;
+  background: url(/Portfolio/images/05_portfolio/img_portfolio_03.jpg) 50% no-repeat;
   background-size: cover;
   transition-delay: .8s;
 }

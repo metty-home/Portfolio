@@ -9,7 +9,7 @@ export default function SkillSection() {
   return (
     <div id="skill" className="sections section_03 wait_scroll" ref={ref}>
       <div className="tree">
-        <Image src="/images/03_skill/img_skill_01.png" alt="벚꽃 나무 2그루" width={500} height={400} priority style={{ width: "auto", height: "100%" }} />
+        <Image src="/Portfolio/images/03_skill/img_skill_01.png" alt="벚꽃 나무 2그루" width={500} height={400} priority style={{ width: "auto", height: "100%" }} />
       </div>
       <div className="width_con">
         <div className="title">

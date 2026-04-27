@@ -42,12 +42,12 @@ export default function ContactSection() {
           </ul>
         </div>
         <div className="contact_logo">
-          <Image src="/images/logo_bi.png" alt="로고이미지" width={260} height={120} priority style={{ width: 260, height: 120 }} />
+          <Image src="/Portfolio/images/logo_bi.png" alt="로고이미지" width={260} height={120} priority style={{ width: 260, height: 120 }} />
         </div>
         <div className="copy">&copy; 2023 JEY. All rights reserved.</div>
       </div>
       <div className="flower">
-        <Image src="/images/06_contact/img_contact_01.png" alt="" width={600} height={600} priority style={{ width: 600, height: 600 }} />
+        <Image src="/Portfolio/images/06_contact/img_contact_01.png" alt="" width={600} height={600} priority style={{ width: 600, height: 600 }} />
       </div>
     </div>
   );

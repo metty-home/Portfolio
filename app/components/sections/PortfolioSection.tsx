@@ -62,7 +62,7 @@ export default function PortfolioSection() {
         <ul className="product_con">
           {ITEMS.map((item) => (
             <li key={item.className} className={`product ${item.className}`}>
-              <Image className="guide" src="/images/guide_16_10.png" alt="" width={391} height={244} />
+              <Image className="guide" src="/Portfolio/images/guide_16_10.png" alt="" width={391} height={244} />
               <a className="info" href={item.href} target="_blank" rel="noopener noreferrer" title={item.title}>
                 <h6>Promotion Site</h6>
                 <h4>{item.title}</h4>

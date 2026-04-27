@@ -59,7 +59,7 @@ export default function Header() {
       <div className="width_con">
         <div className="logo">
           <a href="#visual" onClick={(e) => handleNavClick(e, "#visual")}>
-            <Image src="/images/logo_bi.png" alt="로고이미지" width={120} height={60} priority style={{ width: 120, height: 60 }} />
+            <Image src="/Portfolio/images/logo_bi.png" alt="로고이미지" width={120} height={60} priority style={{ width: 120, height: 60 }} />
           </a>
         </div>
         <ul className="nav_con">
