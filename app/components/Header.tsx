@@ -4,7 +4,7 @@ import Image from "next/image";
 import { useEffect, useState, useCallback } from "react";
 
 const NAV_ITEMS = [
-  { label: "Welcome", href: "#visual" },
+  { label: "Welcome TEST", href: "#visual" },
   { label: "About", href: "#about" },
   { label: "Skill", href: "#skill" },
   { label: "Personality", href: "#personality" },
